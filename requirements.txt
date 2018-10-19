@@ -1,5 +1,0 @@
-pycrypto
-dnslib
-requests
-miniupnpc
-ntplib
